@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mahadeviation is a GO!"
+title: "MahaDeviation is a GO!"
 date: 2019-06-15
 ---
 
