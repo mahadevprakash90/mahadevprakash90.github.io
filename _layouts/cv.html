@@ -1,6 +1,28 @@
----
-layout: default
----
-<div id="cv">
-  {{ content }}
-</div>
+<!DOCTYPE html>
+<html>
+	<head>
+	<title> {{ page.title }}</title>
+		<!-- link to main stylesheet -->
+		<link rel="stylesheet" type="text/css" href="/css/main.css">
+	</head>
+	<body id="cv">
+		<nav>
+			<ul>
+				<li><a href="/">Home</a></li>
+				<li><a href="/about">About</a></li>
+				<li><a href="/cv">CV</a></li>
+				<li><a href="/blog">Blog</a></li>
+			</ul>
+		</nav>
+		<div class="container">
+			{{ content }}
+		</div><!--/.container-->
+		<footer>
+    		<ul>
+        		<li><a href="mailto:mahadev.prakash.1002@gmail.com">email</a></li>
+        		<li><a href="https://github.com/mahadevprakash90">github.com/mahadevprakash90</a></li>
+        		<li><a href="https://www.linkedin.com/in/aditya-prakash-a0523151/">linkedIn</a></li>
+			</ul>
+		</footer>
+	</body>
+</html>
