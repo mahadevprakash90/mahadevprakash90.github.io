@@ -69,7 +69,7 @@ ul.posts li {
 }
 
 
-body.cv {
+#cv body {
 	font: normal normal 400;
 	font-size: 80%;
 	line-height: 1.5em;
@@ -79,7 +79,7 @@ body.cv {
 	margin-left: 1em;
 }
 
-p.cv {
+#cv p {
 	position: relative;
 	left: 33%;
 	margin-bottom: 0.7em;
@@ -87,7 +87,7 @@ p.cv {
 	width: 65%;
 }
 
-code.cv {
+#cv code {
 	font: normal normal;
 	font-size: 60%;
 	/*line-height: 1em;*/
@@ -95,13 +95,13 @@ code.cv {
 	color: #aaa;
 }
 
-p.cv code {
+#cv p code {
 	position: absolute;
 	left: -14%;
 }
 
 
-ul.cv { 
+#cv ul { 
 	position: relative;
 	left: 33%;
 	width: 65%;
@@ -116,27 +116,27 @@ ul.cv {
 	left: -0.25em;
 }*/
 
-li.cv {
+#cv li {
 	/*second line indent*/
 	padding-left: 1.25em;
 	text-indent: -1.25em;
 	/*color: #777;*/
 }
 
-li.cv ul {
+#cv li ul {
 	position: relative;
 	left: 0;
 	width: 100%;
 	margin-top: 0.25em;
 }
 
-h1.cv,h2.cv,h3.cv,h4.cv {
+#cv h1,h2,h3,h4 {
 	font-weight: 400;
 	font-family: Cousine,Verdana,sans-serif;
 	width: 65%;
 }
 
-h1.cv {
+#cv h1 {
 	text-align: left;
 	font-size: 3em;
 	line-height: 1em;
@@ -144,13 +144,13 @@ h1.cv {
 	left: 33%;
 }
 
-h1.cv+p.cv { 
+#cv h1+p { 
 	/*subtitle*/
 	font-style: italic;
 	font-size: 110%;
 }
 
-h2.cv {
+#cv h2 {
 	font-size: 1.1em;
 	color: #a00;
 	margin-top: 3em;
@@ -160,7 +160,7 @@ h2.cv {
 	width: 20%;
 }
 
-h3.cv {
+#cv h3 {
 	font-size: 1em;
 	line-height: 2em; 
 	position: relative;
@@ -169,12 +169,12 @@ h3.cv {
 	width: 20%;
 }
 
-a.cv {
+#cv a {
 	color: inherit;
 	/*text-decoration:none*/
 }
 
-a.cv:hover {
+#cv a:hover {
 	color:#39f
 }
 
