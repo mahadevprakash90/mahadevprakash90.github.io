@@ -67,3 +67,140 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+
+
+body.cv {
+	font: normal normal 400;
+	font-size: 80%;
+	line-height: 1.5em;
+	/*also written as...  font: normal normal 400 100%/1.5em;*/
+	font-family: Verdana,sans-serif;
+	margin-top: 1em;
+	margin-left: 1em;
+}
+
+p.cv {
+	position: relative;
+	left: 33%;
+	margin-bottom: 0.7em;
+	margin-right: 0;
+	width: 65%;
+}
+
+code.cv {
+	font: normal normal;
+	font-size: 60%;
+	/*line-height: 1em;*/
+	font-family: Menlo,monospace,sans-serif;
+	color: #aaa;
+}
+
+p.cv code {
+	position: absolute;
+	left: -14%;
+}
+
+
+ul.cv { 
+	position: relative;
+	left: 33%;
+	width: 65%;
+	margin-bottom: 1.5em;
+	margin-top: -0.5em;
+}
+
+/*uncomment to get dashes in the list*/
+/*li:before {
+	content: "-";
+	position: relative;
+	left: -0.25em;
+}*/
+
+li.cv {
+	/*second line indent*/
+	padding-left: 1.25em;
+	text-indent: -1.25em;
+	/*color: #777;*/
+}
+
+li.cv ul {
+	position: relative;
+	left: 0;
+	width: 100%;
+	margin-top: 0.25em;
+}
+
+h1.cv,h2.cv,h3.cv,h4.cv {
+	font-weight: 400;
+	font-family: Cousine,Verdana,sans-serif;
+	width: 65%;
+}
+
+h1.cv {
+	text-align: left;
+	font-size: 3em;
+	line-height: 1em;
+	position: relative;
+	left: 33%;
+}
+
+h1.cv+p.cv { 
+	/*subtitle*/
+	font-style: italic;
+	font-size: 110%;
+}
+
+h2.cv {
+	font-size: 1.1em;
+	color: #a00;
+	margin-top: 3em;
+	position: relative;
+	top: 1.4em;
+	text-align: right;
+	width: 20%;
+}
+
+h3.cv {
+	font-size: 1em;
+	line-height: 2em; 
+	position: relative;
+	top: 1.7em;
+	text-align: right;
+	width: 20%;
+}
+
+a.cv {
+	color: inherit;
+	/*text-decoration:none*/
+}
+
+a.cv:hover {
+	color:#39f
+}
+
+#webaddress {
+	margin-top: 1em;
+	position: relative;
+	left: 33%;
+	color: #aaa;
+	font-family: Menlo,monospace,sans-serif;
+	font-size: 80%;
+}
+
+#webaddress a {
+	text-decoration: none;
+}
+
+em.cv {
+	font-weight: bold;
+	font-style: italic;
+}
+
+strong.cv {
+	font-weight: bold;
+}
+
+#address {
+	display: none;
+}
+
