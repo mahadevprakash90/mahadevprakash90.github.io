@@ -3,85 +3,85 @@ layout: cv
 title: Aditya Mahadev Prakash CV
 ---
 
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Aditya Mahadev Prakash
+PhD Student, ISE, University of Florida
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="mahadevprakash90@ufl.edu">mahadevprakash90@ufl.edu</a>|
+<a href="https://scholar.google.com/citations?user=PpuVSqsAAAAJ&hl=en">Google Scholar</a> 
 </div>
 
   
 ## Currently
 
-Standing on the shoulders of giants
-
+PhD Student, Industrial and Systems Engineering, University of Florida.
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Stochastic systems, systems engineering, optimization
 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Healthcare systems, machine learning, data analytics
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2008-13`
+__Indian Institute of Technology, Kharagpur__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+- Bachelor of Technology (Civil Engineering)
 
-- Sizar
+`2013-15`
+__Indian Institute of Management, Bangalore__
 
-`1667 - death`
-__Trinity College, Cambridge__
+- Post Graduate Diploma in Management
 
-- Fellow
+`2016 - now`
+__University of Florida__
+
+- PhD. Student, ISE
 
 
 
 ## Awards
 
-`2012`
-President, *Royal Society*, London, UK
+`2019`
+Hearn graduate research award, ISE University of Florida
 
-Associate, *French Academy of Science*, Paris, France
+Best healthcare automation paper, IEEE CASE Conference
 
 
 
 ## Publications
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+<!-- A list is also available [online](https://scholar.google.com/citations?user=PpuVSqsAAAAJ&hl=en) -->
 
 ### Journals
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+`2019`
+A. M. Prakash, Q. He & X. Zhong, “Evaluation of E-consults in healthcare delivery,”Proceedingsof IEEE Conference on Automation Science and Engineering 
 
-`1669`
-Lectiones opticæ.
+`2018`
+A.  M.  Prakash,  Q.  He  &  X.  Zhong,  “Incentive-Driven  Post-Discharge  Compliance  Managementfor  Chronic  Disease  Patients  in  Healthcare  Service  Operations,”IISE Transactions on HealthcareSystems Engineering
 
-etc. etc. etc.
 
-### Patents
+### Invited Talks
 
 `2012`
 Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
 
 
-## Occupation
+## Employment
 
-`1600`
-__Royal Mint__, London
+`2015-2016`
+__Synergy Consulting Inc__, Delhi, India
 
-- Warden
-- Minted coins
+- Associate
+- Infrastructure financial advisory and consulting services
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`May-Jul 2019`
+__Summer Intern__, Mayo Clinic
 
 
 <!-- ### Footer
