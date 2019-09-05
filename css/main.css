@@ -191,12 +191,12 @@ ul.posts li {
 	text-decoration: none;
 }
 
-em.cv {
+#cv em {
 	font-weight: bold;
 	font-style: italic;
 }
 
-strong.cv {
+#cv strong {
 	font-weight: bold;
 }
 
