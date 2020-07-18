@@ -66,12 +66,6 @@ A. M. Prakash, Q. He & X. Zhong, “Evaluation of E-consults in healthcare deliv
 A.  M.  Prakash,  Q.  He  &  X.  Zhong,  “Incentive-Driven  Post-Discharge  Compliance  Managementfor  Chronic  Disease  Patients  in  Healthcare  Service  Operations,”IISE Transactions on HealthcareSystems Engineering
 
 
-### Invited Talks
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
 ## Employment
 
 `2015-2016`
