@@ -4,8 +4,8 @@ title: "The Devil's Avocado"
 date: 2021-06-12
 ---
 
-It has been a rainy week in Charlotte and the lightning did very little to steal my thunder. For I did rise from my existential couch laden with the used clothes
-of habit and took to some contemplation amidst the pandemic. 
+It has been a rainy week in Charlotte and the lightning did very little to steal my thunder. For I did rise from my existential couch (beladen with the used clothes
+of habit) and posed by the window looking skyward, contemplating society and existence during the contagion. 
 
 I painfully had to accept the reality that I am indeed allergic to avocado. I always hoped this avocado toast will be different from the last but that was not to be.
 "Why didn't we get Avocado?" asked Deepthi, making love to her guacamole. She was asking why avocado is not part of the Indian cuisine where every other food 
