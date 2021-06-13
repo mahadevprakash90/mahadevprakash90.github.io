@@ -22,7 +22,7 @@ __Indian Institute of Management, Bangalore__
 
 - Post Graduate Diploma in Management
 
-`2016 - 20`
+`2016-20`
 __University of Florida__
 
 - PhD, Industrial and Systems Engineering
