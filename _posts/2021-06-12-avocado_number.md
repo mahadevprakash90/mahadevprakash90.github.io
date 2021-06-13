@@ -23,7 +23,7 @@ Here is a haiku to capture the essence of the week.
 The trees were lovely, dark, and deep, with randomly sampled features. 
 Miles to go before I sleep."
 
-![image](images/xxdropping-04-jumbo.jpeg)
+![image](/images/xxdropping-04-jumbo.jpeg)
 
 <script
   async
