@@ -26,7 +26,7 @@ Miles to go before I sleep."
 <script
   async
   src="https://utteranc.es/client.js"
-  repo="<OWNER>/<NAME>"
+  repo="mahadevprakash90/mahadevprakash90.github.io"
   issue-term="title"
   theme="github-light"
   crossorigin="anonymous"
