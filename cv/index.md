@@ -61,7 +61,7 @@ A. M. Prakash, Q. He & X. Zhong, “Evaluation of E-consults in healthcare deliv
 `2020-Present`
 __Wells Fargo Bank N.A.__, Charlotte, NC, USA
 
-`2015-2016`
+`2015-16`
 __Synergy Consulting Inc__, Delhi, India
 
 - Associate
