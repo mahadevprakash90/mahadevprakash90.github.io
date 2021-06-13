@@ -4,26 +4,11 @@ title: Aditya Mahadev Prakash CV
 ---
 
 # Aditya Mahadev Prakash
-PhD Student, ISE, University of Florida
-
+Quantitative Analytics Specialist, Wells Fargo Bank
 <div id="webaddress">
 <a href="mahadevprakash90@ufl.edu">mahadevprakash90@ufl.edu</a>|
 <a href="https://scholar.google.com/citations?user=PpuVSqsAAAAJ&hl=en">Google Scholar</a> 
 </div>
-
-  
-## Currently
-
-PhD Student, Industrial and Systems Engineering, University of Florida.
-### Specialized in
-
-Stochastic systems, systems engineering, optimization
-
-
-### Research interests
-
-Healthcare systems, machine learning, data analytics
-
 
 ## Education
 
@@ -51,6 +36,8 @@ Hearn graduate research award, ISE University of Florida
 
 Best healthcare automation paper, IEEE CASE Conference
 
+'2018'
+Best healthcare paper, IISE Annual Conference
 
 
 
