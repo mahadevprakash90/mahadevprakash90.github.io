@@ -48,12 +48,13 @@ Best healthcare paper, IISE Annual Conference
 
 ### Journals
 
-`2019`
-A. M. Prakash, Q. He & X. Zhong, “Evaluation of E-consults in healthcare delivery,”Proceedings of IEEE Conference on Automation Science and Engineering 
-
 `2018`
 A.  M.  Prakash,  Q.  He  &  X.  Zhong,  “Incentive-Driven  Post-Discharge  Compliance  Managementfor  Chronic  Disease  Patients  in  Healthcare  Service  Operations,”IISE Transactions on HealthcareSystems Engineering
 
+### Proceedings
+
+`2019`
+A. M. Prakash, Q. He & X. Zhong, “Evaluation of E-consults in healthcare delivery,”Proceedings of IEEE Conference on Automation Science and Engineering 
 
 ## Employment
 
