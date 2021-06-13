@@ -23,7 +23,14 @@ Here is a haiku to capture the essence of the week.
 The trees were lovely, dark, and deep, with randomly sampled features. 
 Miles to go before I sleep."
 
-
+<script
+  async
+  src="https://utteranc.es/client.js"
+  repo="<OWNER>/<NAME>"
+  issue-term="title"
+  theme="github-light"
+  crossorigin="anonymous"
+></script>
  
  
  
