@@ -36,7 +36,7 @@ Hearn graduate research award, ISE University of Florida
 
 Best healthcare automation paper, IEEE CASE Conference
 
-'2018'
+`2018`
 Best healthcare paper, IISE Annual Conference
 
 
@@ -49,13 +49,16 @@ Best healthcare paper, IISE Annual Conference
 ### Journals
 
 `2019`
-A. M. Prakash, Q. He & X. Zhong, “Evaluation of E-consults in healthcare delivery,”Proceedingsof IEEE Conference on Automation Science and Engineering 
+A. M. Prakash, Q. He & X. Zhong, “Evaluation of E-consults in healthcare delivery,”Proceedings of IEEE Conference on Automation Science and Engineering 
 
 `2018`
 A.  M.  Prakash,  Q.  He  &  X.  Zhong,  “Incentive-Driven  Post-Discharge  Compliance  Managementfor  Chronic  Disease  Patients  in  Healthcare  Service  Operations,”IISE Transactions on HealthcareSystems Engineering
 
 
 ## Employment
+
+`2020-Present`
+__Wells Fargo Bank N.A.__, Charlotte, NC, USA
 
 `2015-2016`
 __Synergy Consulting Inc__, Delhi, India
