@@ -24,7 +24,8 @@ The trees were lovely, dark, and deep, with randomly sampled features.
 Miles to go before I sleep."
 
 
-<center><img src="/images/xxdropping-04-jumbo.jpeg" alt="drawing" width="700"/></center>
+<p style="text-align:center;"> <img src="/images/xxdropping-04-jumbo.jpeg" alt="a deep random forest" width="700"/></center>
+</p>
 
 <script
   async
