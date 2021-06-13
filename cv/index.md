@@ -40,7 +40,7 @@ __Indian Institute of Management, Bangalore__
 `2016 - now`
 __University of Florida__
 
-- PhD. Student, ISE
+- PhD, Industrial and Systems Engineering
 
 
 
@@ -50,6 +50,8 @@ __University of Florida__
 Hearn graduate research award, ISE University of Florida
 
 Best healthcare automation paper, IEEE CASE Conference
+
+
 
 
 
