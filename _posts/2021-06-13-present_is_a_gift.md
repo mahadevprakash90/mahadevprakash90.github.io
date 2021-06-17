@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Present's a gift"
+date: 2021-06-13
+---
+
 <h1> The Present is a Gift. </h1>
 
 When I count my blessings I make it a point to be grateful that I was born in the present rather than any time in the past. There are many reasons 
