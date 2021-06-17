@@ -4,8 +4,6 @@ title: "Present's a gift"
 date: 2021-06-13
 ---
 
-<h1> The Present is a Gift. </h1>
-
 When I count my blessings I make it a point to be grateful that I was born in the present rather than any time in the past. There are many reasons 
 beyond the obvious fact that life was black and white before the 1960's. Let us begin with the basic necessities of life. 
 
