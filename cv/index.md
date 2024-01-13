@@ -6,7 +6,7 @@ title: Aditya Mahadev Prakash CV
 # Aditya Mahadev Prakash
 Quantitative Analytics Specialist, Wells Fargo Bank
 <div id="webaddress">
-<a href="mahadevprakash90@ufl.edu">mahadevprakash90@ufl.edu</a>|
+<a href="mahadevprakash90@ufl.edu">mahadev.prakash.1002@gmail.com</a>|
 <a href="https://scholar.google.com/citations?user=PpuVSqsAAAAJ&hl=en">Google Scholar</a> 
 </div>
 
