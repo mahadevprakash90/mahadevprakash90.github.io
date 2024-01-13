@@ -39,6 +39,10 @@ Best healthcare automation paper, IEEE CASE Conference
 `2018`
 Best healthcare paper, IISE Annual Conference
 
+`2013`
+Best Master Thesis, Dept. of Civil Engg., IIT Kharagpur
+Institute Silver Medal, Dept. of Civil Engg., IIT Kharagpur
+
 
 
 
@@ -49,7 +53,7 @@ Best healthcare paper, IISE Annual Conference
 ### Journals
 
 `2018`
-A.  M.  Prakash,  Q.  He  &  X.  Zhong,  “Incentive-Driven  Post-Discharge  Compliance  Managementfor  Chronic  Disease  Patients  in  Healthcare  Service  Operations,”IISE Transactions on HealthcareSystems Engineering
+A.  M.  Prakash,  Q.  He  &  X.  Zhong,  “Incentive-Driven  Post-Discharge  Compliance  Management for  Chronic  Disease  Patients  in  Healthcare  Service  Operations,”IISE Transactions on HealthcareSystems Engineering
 
 ### Proceedings
 
@@ -59,7 +63,9 @@ A. M. Prakash, Q. He & X. Zhong, “Evaluation of E-consults in healthcare deliv
 ## Employment
 
 `2020-Present`
-__Wells Fargo Bank N.A.__, Charlotte, NC, USA
+__Wells Fargo Bank N.A.__, Irving, NC, USA
+- Senior Quantitative Analytics Specialist
+- Machine learning model development for fraud and financial crimes
 
 `2015-16`
 __Synergy Consulting Inc__, Delhi, India
@@ -73,5 +79,5 @@ __Summer Intern__, Mayo Clinic
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: January 2024 -->
 
