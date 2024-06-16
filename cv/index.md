@@ -6,9 +6,26 @@ title: Aditya Mahadev Prakash CV
 # Aditya Mahadev Prakash
 Quantitative Analytics Specialist, Wells Fargo Bank
 <div id="webaddress">
-<a href="mahadevprakash90@ufl.edu">mahadev.prakash.1002@gmail.com</a>|
+<a href="mahadev.prakash.1002@gmail.com">mahadev.prakash.1002@gmail.com</a>|
 <a href="https://scholar.google.com/citations?user=PpuVSqsAAAAJ&hl=en">Google Scholar</a> 
 </div>
+
+## Employment
+
+`2020-Present`
+__Wells Fargo Bank N.A.__, Irving, TX, USA
+- Senior Quantitative Analytics Specialist
+- Machine learning model development for fraud and financial crimes
+
+`2015-16`
+__Synergy Consulting Inc__, Delhi, India
+
+- Associate
+- Infrastructure financial advisory and consulting services
+
+`May-Jul 2019`
+__Summer Intern__, Mayo Clinic
+- Developed hybrid simulation models for ICU operations
 
 ## Education
 
@@ -52,29 +69,15 @@ Institute Silver Medal, Dept. of Civil Engg., IIT Kharagpur
 
 ### Journals
 
+`2022`
+X Zhong, F Babaie Sarijaloo, A Prakash, J Park, C Huang, A Barwise ,et.al.,  “A multidisciplinary approach to the development of digital twin models of critical care delivery in intensive care units”, International Journal of Production Research 60 (13)
+
+`2021`
+A.  M.  Prakash,  X.  Zhong,  “Queueing Information Management of Primary Care Delivery With E-Visits”, IEEE Transactions on Automation Science and Engineering 
+
 `2018`
-A.  M.  Prakash,  Q.  He  &  X.  Zhong,  “Incentive-Driven  Post-Discharge  Compliance  Management for  Chronic  Disease  Patients  in  Healthcare  Service  Operations,”IISE Transactions on HealthcareSystems Engineering
+A.  M.  Prakash,  Q.  He  &  X.  Zhong,  “Incentive-Driven  Post-Discharge  Compliance  Management for  Chronic  Disease  Patients  in  Healthcare  Service  Operations,” IISE Transactions on HealthcareSystems Engineering
 
-### Proceedings
-
-`2019`
-A. M. Prakash, Q. He & X. Zhong, “Evaluation of E-consults in healthcare delivery,”Proceedings of IEEE Conference on Automation Science and Engineering 
-
-## Employment
-
-`2020-Present`
-__Wells Fargo Bank N.A.__, Irving, NC, USA
-- Senior Quantitative Analytics Specialist
-- Machine learning model development for fraud and financial crimes
-
-`2015-16`
-__Synergy Consulting Inc__, Delhi, India
-
-- Associate
-- Infrastructure financial advisory and consulting services
-
-`May-Jul 2019`
-__Summer Intern__, Mayo Clinic
 
 
 <!-- ### Footer
