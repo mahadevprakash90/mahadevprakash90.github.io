@@ -24,7 +24,8 @@ __Synergy Consulting Inc__, Delhi, India
 - Infrastructure financial advisory and consulting services
 
 `May-Jul 2019`
-__Summer Intern__, Mayo Clinic
+__Mayo Clinic__, Rochester, MN, USA
+- Summer Intern
 - Developed hybrid simulation models for ICU operations
 
 ## Education
