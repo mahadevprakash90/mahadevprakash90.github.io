@@ -1,36 +1,39 @@
 <!DOCTYPE html>
-<html>
-	<head>
-	<meta name="google-site-verification" content="pfNDtmimLcLiHcvBx-lEVpUVfbzikbG5wWKlJiyJnQ8" />
-	<title> {{ page.title }}</title>
-		<!-- link to main stylesheet -->
-		<link rel="stylesheet" type="text/css" href="/css/main.css">
-	</head>
-	<body>
-		<nav>
-			<ul>
-				<li><a href="/">Home</a></li>
-				<li><a href="/about">About</a></li>
-				<li><a href="/cv">CV</a></li>
-				<li><a href="/blog">Blog</a></li>
-			</ul>
-		
-		</nav>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="/css/main.css">
+    <script type="text/javascript" src="{{'js/main.js'|relative_url}}" defer></script>
+</head>
+<body>
+    <div class="main-container">
+    <div class="cover-text">mahaDeviation</div>
+    <canvas id="cover-pic"></canvas>
+    
+    <div class="navbar" id="myNavbar">
+        <a href="javascript:void(0);" class="icon" onclick="toggleNavbar()">&#9776;</a>
+        <a href="/"> Home</a>
+        <a href="/portfolio">Portfolio</a>
+        <a href="/blog">Blog</a>
+        <a href="#updates">Updates</a>  
+    </div>
+    
+    <div class="content-wrapper">
+        <div class="sidebar">
+            <canvas id="profilepic"></canvas>
+            <div id="headline"> Data Scientist, Engineering, Math, Code, Art</div>
+            <a href="https://www.linkedin.com/in/aditya-mahadev-prakash-a0523151/">LinkedIN</a>
+            <a href="https://scholar.google.com/citations?user=PpuVSqsAAAAJ&hl=en">Google Scholar</a>
+        </div>
+        <div class="content">
+            {{ content }}
+        </div>
+    </div>
 
-		<div class="container">
-			{{ content }}
-		</div><!--/.container-->
-		<footer>
-    		<ul>
-        		<li><a href="mailto:mahadev.prakash.1002@gmail.com">email</a></li>
-        		<li><a href="https://github.com/mahadevprakash90">github.com/mahadevprakash90</a></li>
-        		<li><a href="https://www.linkedin.com/in/aditya-mahadev-prakash-a0523151">linkedIn</a></li>
-			</ul>
-		</footer>
-	</body>
+    <canvas id="footer"></canvas>
+    
+</div>
+</body>
 </html>
-
-
-
-
-
