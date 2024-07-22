@@ -70,11 +70,25 @@ body {
 .sidebar a {
     /* float: none; */
     font-size: 15px;
+    font-weight: bold;
     text-decoration: None;
     padding-top:15px;
+    color:#02202c;
 }
 
+.sidebar a:hover {
+    color:rgb(201, 15, 226);
+}
 
+.content a {
+    text-decoration: None;
+    color:rgb(247, 50, 15);
+}
+
+.content a:hover {
+    text-decoration: None;
+    color:rgb(201, 15, 226);
+}
 
 .row {
     display: flex;
@@ -365,4 +379,8 @@ body {
 
 .cv #address {
 	display: none;
+}
+
+.post {
+    width: 90%;
 }
